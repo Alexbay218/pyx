@@ -1,0 +1,6 @@
+{
+	eventListener: String,
+	moveFunc: function(moveInterface) {
+
+	}
+}

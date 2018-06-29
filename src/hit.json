@@ -1,0 +1,21 @@
+export function playerClass() {
+	return {
+		name: "default",
+		width: 16,
+		height: 32,
+		mass: 50,
+		maxspeed: 10,
+		maxhitpoint: 100,
+		maxenergy: 100,
+		energyrate: 5,
+
+		posX: 0,
+		posY: 0,
+		velX: 0,
+		velY: 0,
+		energy: 100,
+		hitpoint: 100,
+
+		moves: []
+	};
+}

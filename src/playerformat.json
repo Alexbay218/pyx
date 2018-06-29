@@ -1,0 +1,14 @@
+{
+	name: "string",
+	width: int,
+	height: int,
+	mass: int,
+	maxspeed: float,
+	maxhitpoint: int,
+	maxenergy: int,
+	energyrate: float,
+	moves: [
+		function,
+		function
+	]
+}
