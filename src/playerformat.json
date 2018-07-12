@@ -4,11 +4,11 @@
 	height: int,
 	mass: int,
 	maxspeed: float,
-	maxhitpoint: int,
-	maxenergy: int,
-	energyrate: float,
+	maxHitPoint: int,
+	maxEnergy: int,
+	energyRate: float,
 	moves: [
-		function,
-		function
+		obj,
+		obj
 	]
 }

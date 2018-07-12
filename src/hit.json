@@ -5,16 +5,16 @@ export function playerClass() {
 		height: 32,
 		mass: 50,
 		maxspeed: 10,
-		maxhitpoint: 100,
-		maxenergy: 100,
-		energyrate: 5,
+		maxHitPoint: 100,
+		maxEnergy: 100,
+		energyRate: 5,
 
 		posX: 0,
 		posY: 0,
 		velX: 0,
 		velY: 0,
 		energy: 100,
-		hitpoint: 100,
+		hitPoint: 100,
 
 		moves: []
 	};
